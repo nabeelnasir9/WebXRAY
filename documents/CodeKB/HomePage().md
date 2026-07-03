@@ -1,0 +1,18 @@
+---
+source_file: "components/HomePage.tsx"
+type: "code"
+community: "Home page UI"
+location: "L29"
+tags:
+  - graphify/code
+  - graphify/EXTRACTED
+  - community/Home_page_UI
+---
+
+# HomePage()
+
+## Connections
+- [[HomePage.tsx]] - `contains` [EXTRACTED]
+- [[page.tsx]] - `imports` [EXTRACTED]
+
+#graphify/code #graphify/EXTRACTED #community/Home_page_UI

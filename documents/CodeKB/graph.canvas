@@ -1,0 +1,3684 @@
+{
+  "nodes": [
+    {
+      "id": "g0",
+      "type": "group",
+      "label": "App shell & SEO",
+      "x": 0,
+      "y": 0,
+      "width": 1320,
+      "height": 1320,
+      "color": "1"
+    },
+    {
+      "id": "n_domain_page_checkpage",
+      "type": "file",
+      "file": "CheckPage().md",
+      "x": 20,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_components_checkpageclient_checkpageclient",
+      "type": "file",
+      "file": "CheckPageClient().md",
+      "x": 220,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_components_checkpageclient_tsx",
+      "type": "file",
+      "file": "CheckPageClient.tsx.md",
+      "x": 420,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_lib_site_seo_home_keywords",
+      "type": "file",
+      "file": "HOME_KEYWORDS.md",
+      "x": 20,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_components_jsonld_jsonld",
+      "type": "file",
+      "file": "JsonLd().md",
+      "x": 220,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_components_jsonld_tsx",
+      "type": "file",
+      "file": "JsonLd.tsx.md",
+      "x": 420,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_app_opengraph_image_opengraphimage",
+      "type": "file",
+      "file": "OpenGraphImage().md",
+      "x": 20,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_app_page_page",
+      "type": "file",
+      "file": "Page().md",
+      "x": 220,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_components_checkpageclient_props",
+      "type": "file",
+      "file": "Props_1.md",
+      "x": 420,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_components_jsonld_props",
+      "type": "file",
+      "file": "Props.md",
+      "x": 20,
+      "y": 320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_app_layout_rootlayout",
+      "type": "file",
+      "file": "RootLayout().md",
+      "x": 220,
+      "y": 320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_readme_shareable_reports",
+      "type": "file",
+      "file": "Shareable scan reports.md",
+      "x": 420,
+      "y": 320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_lib_site_seo_absoluteurl",
+      "type": "file",
+      "file": "absoluteUrl().md",
+      "x": 20,
+      "y": 400,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_app_layout_bangers",
+      "type": "file",
+      "file": "bangers.md",
+      "x": 220,
+      "y": 400,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_lib_site_seo_buildhomemetadata",
+      "type": "file",
+      "file": "buildHomeMetadata().md",
+      "x": 420,
+      "y": 400,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_lib_site_seo_buildreportmetadata",
+      "type": "file",
+      "file": "buildReportMetadata().md",
+      "x": 20,
+      "y": 480,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_lib_site_seo_buildrootmetadata",
+      "type": "file",
+      "file": "buildRootMetadata().md",
+      "x": 220,
+      "y": 480,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_domain_page_generatemetadata",
+      "type": "file",
+      "file": "generateMetadata().md",
+      "x": 420,
+      "y": 480,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_lib_site_seo_getsiteurl",
+      "type": "file",
+      "file": "getSiteUrl().md",
+      "x": 20,
+      "y": 560,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_app_layout_tsx",
+      "type": "file",
+      "file": "layout.tsx.md",
+      "x": 220,
+      "y": 560,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_app_layout_metadata",
+      "type": "file",
+      "file": "metadata.md",
+      "x": 420,
+      "y": 560,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_app_page_metadata",
+      "type": "file",
+      "file": "metadata_1.md",
+      "x": 20,
+      "y": 640,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_app_opengraph_image_tsx",
+      "type": "file",
+      "file": "opengraph-image.tsx.md",
+      "x": 220,
+      "y": 640,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_app_check_domain_page_tsx",
+      "type": "file",
+      "file": "page.tsx_1.md",
+      "x": 420,
+      "y": 640,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_app_page_tsx",
+      "type": "file",
+      "file": "page.tsx.md",
+      "x": 20,
+      "y": 720,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_app_layout_ptmono",
+      "type": "file",
+      "file": "ptMono.md",
+      "x": 220,
+      "y": 720,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_lib_site_seo_reportpagejsonld",
+      "type": "file",
+      "file": "reportPageJsonLd().md",
+      "x": 420,
+      "y": 720,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_lib_site_seo_reportpath",
+      "type": "file",
+      "file": "reportPath().md",
+      "x": 20,
+      "y": 800,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_app_robots_robots",
+      "type": "file",
+      "file": "robots().md",
+      "x": 220,
+      "y": 800,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_app_robots_ts",
+      "type": "file",
+      "file": "robots.ts.md",
+      "x": 420,
+      "y": 800,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_lib_site_seo_ts",
+      "type": "file",
+      "file": "site-seo.ts.md",
+      "x": 20,
+      "y": 880,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_app_sitemap_sitemap",
+      "type": "file",
+      "file": "sitemap().md",
+      "x": 220,
+      "y": 880,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_app_sitemap_ts",
+      "type": "file",
+      "file": "sitemap.ts.md",
+      "x": 420,
+      "y": 880,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_app_opengraph_image_size",
+      "type": "file",
+      "file": "size_1.md",
+      "x": 20,
+      "y": 960,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_app_layout_viewport",
+      "type": "file",
+      "file": "viewport.md",
+      "x": 220,
+      "y": 960,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_lib_site_seo_webapplicationjsonld",
+      "type": "file",
+      "file": "webApplicationJsonLd().md",
+      "x": 420,
+      "y": 960,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g1",
+      "type": "group",
+      "label": "Advisory UI",
+      "x": 1400,
+      "y": 0,
+      "width": 1320,
+      "height": 1320,
+      "color": "2"
+    },
+    {
+      "id": "n_lib_types_advisory",
+      "type": "file",
+      "file": "Advisory.md",
+      "x": 1420,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_claude_advisory_remediation",
+      "type": "file",
+      "file": "Advisory remediation layer.md",
+      "x": 1620,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_lib_types_advisorylevel",
+      "type": "file",
+      "file": "AdvisoryLevel.md",
+      "x": 1820,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_components_advisorysummary_advisorysummary",
+      "type": "file",
+      "file": "AdvisorySummary().md",
+      "x": 1420,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_components_advisorysummary_tsx",
+      "type": "file",
+      "file": "AdvisorySummary.tsx.md",
+      "x": 1620,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_components_checkcard_cardstate",
+      "type": "file",
+      "file": "CardState.md",
+      "x": 1820,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_components_checkgrid_checkgrid",
+      "type": "file",
+      "file": "CheckGrid().md",
+      "x": 1420,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_components_checkgrid_tsx",
+      "type": "file",
+      "file": "CheckGrid.tsx.md",
+      "x": 1620,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_lib_manifest_checkmeta",
+      "type": "file",
+      "file": "CheckMeta.md",
+      "x": 1820,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_lib_types_checkresult",
+      "type": "file",
+      "file": "CheckResult.md",
+      "x": 1420,
+      "y": 320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_lib_types_checkstatus",
+      "type": "file",
+      "file": "CheckStatus.md",
+      "x": 1620,
+      "y": 320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_components_copybutton_copybutton",
+      "type": "file",
+      "file": "CopyButton().md",
+      "x": 1820,
+      "y": 320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_components_copybutton_tsx",
+      "type": "file",
+      "file": "CopyButton.tsx.md",
+      "x": 1420,
+      "y": 400,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_components_scanprogress_icon",
+      "type": "file",
+      "file": "ICON.md",
+      "x": 1620,
+      "y": 400,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_components_advisorysummary_label",
+      "type": "file",
+      "file": "LABEL.md",
+      "x": 1820,
+      "y": 400,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_components_scanprogress_label",
+      "type": "file",
+      "file": "LABEL_1.md",
+      "x": 1420,
+      "y": 480,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_components_advisorysummary_order",
+      "type": "file",
+      "file": "ORDER.md",
+      "x": 1620,
+      "y": 480,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_components_advisorysummary_props",
+      "type": "file",
+      "file": "Props_4.md",
+      "x": 1820,
+      "y": 480,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_components_checkgrid_props",
+      "type": "file",
+      "file": "Props_9.md",
+      "x": 1420,
+      "y": 560,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_components_scanbar_props",
+      "type": "file",
+      "file": "Props_8.md",
+      "x": 1620,
+      "y": 560,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_components_scanprogress_props",
+      "type": "file",
+      "file": "Props_6.md",
+      "x": 1820,
+      "y": 560,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_components_scanreport_props",
+      "type": "file",
+      "file": "Props_7.md",
+      "x": 1420,
+      "y": 640,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_components_advisorysummary_row",
+      "type": "file",
+      "file": "Row_1.md",
+      "x": 1620,
+      "y": 640,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_components_scanprogress_rowstate",
+      "type": "file",
+      "file": "RowState.md",
+      "x": 1820,
+      "y": 640,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_components_scanbar_scanbar",
+      "type": "file",
+      "file": "ScanBar().md",
+      "x": 1420,
+      "y": 720,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_components_scanbar_tsx",
+      "type": "file",
+      "file": "ScanBar.tsx.md",
+      "x": 1620,
+      "y": 720,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_components_scanprogress_scanprogress",
+      "type": "file",
+      "file": "ScanProgress().md",
+      "x": 1820,
+      "y": 720,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_components_scanprogress_tsx",
+      "type": "file",
+      "file": "ScanProgress.tsx.md",
+      "x": 1420,
+      "y": 800,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_components_scanreport_tsx",
+      "type": "file",
+      "file": "ScanReport.tsx.md",
+      "x": 1620,
+      "y": 800,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_claude_webxray",
+      "type": "file",
+      "file": "WebXRAY.md",
+      "x": 1820,
+      "y": 800,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_lib_manifest_byid",
+      "type": "file",
+      "file": "byId.md",
+      "x": 1420,
+      "y": 880,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_lib_manifest_checkabout",
+      "type": "file",
+      "file": "checkAbout().md",
+      "x": 1620,
+      "y": 880,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_lib_manifest_checklist",
+      "type": "file",
+      "file": "checkList_1.md",
+      "x": 1820,
+      "y": 880,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_lib_manifest_checktitle",
+      "type": "file",
+      "file": "checkTitle().md",
+      "x": 1420,
+      "y": 960,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_lib_manifest_ts",
+      "type": "file",
+      "file": "manifest.ts.md",
+      "x": 1620,
+      "y": 960,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_lib_types_ts",
+      "type": "file",
+      "file": "types.ts.md",
+      "x": 1820,
+      "y": 960,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g2",
+      "type": "group",
+      "label": "DNS & domain checks",
+      "x": 2800,
+      "y": 0,
+      "width": 1320,
+      "height": 1320,
+      "color": "3"
+    },
+    {
+      "id": "n_checks_mail_config_dkim_selectors",
+      "type": "file",
+      "file": "DKIM_SELECTORS.md",
+      "x": 2820,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_lib_net_dohanswer",
+      "type": "file",
+      "file": "DohAnswer.md",
+      "x": 3020,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_lib_net_dohresponse",
+      "type": "file",
+      "file": "DohResponse.md",
+      "x": 3220,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_lib_net_known_rdap_bases",
+      "type": "file",
+      "file": "KNOWN_RDAP_BASES.md",
+      "x": 2820,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_lib_net_known_whois_servers",
+      "type": "file",
+      "file": "KNOWN_WHOIS_SERVERS.md",
+      "x": 3020,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_lib_net_rdap_skip_tlds",
+      "type": "file",
+      "file": "RDAP_SKIP_TLDS.md",
+      "x": 3220,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_lib_net_rdapjson",
+      "type": "file",
+      "file": "RdapJson.md",
+      "x": 2820,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_lib_net_registrationrecord",
+      "type": "file",
+      "file": "RegistrationRecord.md",
+      "x": 3020,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_lib_checks_dns_server_ts",
+      "type": "file",
+      "file": "dns-server.ts.md",
+      "x": 3220,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_checks_dns_server_dnsservercheck",
+      "type": "file",
+      "file": "dnsServerCheck.md",
+      "x": 2820,
+      "y": 320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_lib_checks_dnssec_ts",
+      "type": "file",
+      "file": "dnssec.ts.md",
+      "x": 3020,
+      "y": 320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_checks_dnssec_dnsseccheck",
+      "type": "file",
+      "file": "dnssecCheck.md",
+      "x": 3220,
+      "y": 320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_lib_net_doh",
+      "type": "file",
+      "file": "doh().md",
+      "x": 2820,
+      "y": 400,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_lib_net_dohdata",
+      "type": "file",
+      "file": "dohData().md",
+      "x": 3020,
+      "y": 400,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_lib_checks_domain_ts",
+      "type": "file",
+      "file": "domain.ts.md",
+      "x": 3220,
+      "y": 400,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_checks_domain_domaincheck",
+      "type": "file",
+      "file": "domainCheck.md",
+      "x": 2820,
+      "y": 480,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_lib_net_fetchregistration",
+      "type": "file",
+      "file": "fetchRegistration().md",
+      "x": 3020,
+      "y": 480,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_lib_checks_host_names_ts",
+      "type": "file",
+      "file": "host-names.ts.md",
+      "x": 3220,
+      "y": 480,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_checks_host_names_hostnamescheck",
+      "type": "file",
+      "file": "hostNamesCheck.md",
+      "x": 2820,
+      "y": 560,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_lib_checks_mail_config_ts",
+      "type": "file",
+      "file": "mail-config.ts.md",
+      "x": 3020,
+      "y": 560,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_checks_mail_config_mailconfigcheck",
+      "type": "file",
+      "file": "mailConfigCheck.md",
+      "x": 3220,
+      "y": 560,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_lib_net_ts",
+      "type": "file",
+      "file": "net.ts.md",
+      "x": 2820,
+      "y": 640,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_lib_net_parserdapjson",
+      "type": "file",
+      "file": "parseRdapJson().md",
+      "x": 3020,
+      "y": 640,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_lib_net_parsewhoistext",
+      "type": "file",
+      "file": "parseWhoisText().md",
+      "x": 3220,
+      "y": 640,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_checks_host_names_ptr",
+      "type": "file",
+      "file": "ptr().md",
+      "x": 2820,
+      "y": 720,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_lib_checks_rank_ts",
+      "type": "file",
+      "file": "rank.ts.md",
+      "x": 3020,
+      "y": 720,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_checks_rank_rankcheck",
+      "type": "file",
+      "file": "rankCheck.md",
+      "x": 3220,
+      "y": 720,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_lib_net_rdapregistrarname",
+      "type": "file",
+      "file": "rdapRegistrarName().md",
+      "x": 2820,
+      "y": 800,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_lib_net_registrabledomain",
+      "type": "file",
+      "file": "registrableDomain().md",
+      "x": 3020,
+      "y": 800,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_lib_checks_txt_records_ts",
+      "type": "file",
+      "file": "txt-records.ts.md",
+      "x": 3220,
+      "y": 800,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_checks_txt_records_txtrecordscheck",
+      "type": "file",
+      "file": "txtRecordsCheck.md",
+      "x": 2820,
+      "y": 880,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_lib_net_unquotetxt",
+      "type": "file",
+      "file": "unquoteTxt().md",
+      "x": 3020,
+      "y": 880,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_lib_checks_whois_ts",
+      "type": "file",
+      "file": "whois.ts.md",
+      "x": 3220,
+      "y": 880,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_checks_whois_whoischeck",
+      "type": "file",
+      "file": "whoisCheck.md",
+      "x": 2820,
+      "y": 960,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_lib_net_whoisfield",
+      "type": "file",
+      "file": "whoisField().md",
+      "x": 3020,
+      "y": 960,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_lib_net_whoisquery",
+      "type": "file",
+      "file": "whoisQuery().md",
+      "x": 3220,
+      "y": 960,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g3",
+      "type": "group",
+      "label": "Home page UI",
+      "x": 4200,
+      "y": 0,
+      "width": 1320,
+      "height": 1020,
+      "color": "4"
+    },
+    {
+      "id": "n_components_animatedurlinput_animatedurlinput",
+      "type": "file",
+      "file": "AnimatedUrlInput().md",
+      "x": 4220,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_components_animatedurlinput_tsx",
+      "type": "file",
+      "file": "AnimatedUrlInput.tsx.md",
+      "x": 4420,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_components_homepage_brandlogo",
+      "type": "file",
+      "file": "BrandLogo().md",
+      "x": 4620,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_components_heromarquee_column_a",
+      "type": "file",
+      "file": "COLUMN_A.md",
+      "x": 4220,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_components_heromarquee_column_b",
+      "type": "file",
+      "file": "COLUMN_B.md",
+      "x": 4420,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_components_animatedurlinput_examples",
+      "type": "file",
+      "file": "EXAMPLES.md",
+      "x": 4620,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_components_heromarquee_heromarquee",
+      "type": "file",
+      "file": "HeroMarquee().md",
+      "x": 4220,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_components_heromarquee_tsx",
+      "type": "file",
+      "file": "HeroMarquee.tsx.md",
+      "x": 4420,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_components_homepage_homepage",
+      "type": "file",
+      "file": "HomePage().md",
+      "x": 4620,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_components_homepage_tsx",
+      "type": "file",
+      "file": "HomePage.tsx.md",
+      "x": 4220,
+      "y": 320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_components_heromarquee_marqueecard",
+      "type": "file",
+      "file": "MarqueeCard.md",
+      "x": 4420,
+      "y": 320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_components_heromarquee_marqueecardview",
+      "type": "file",
+      "file": "MarqueeCardView().md",
+      "x": 4620,
+      "y": 320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_components_heromarquee_marqueecolumn",
+      "type": "file",
+      "file": "MarqueeColumn().md",
+      "x": 4220,
+      "y": 400,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_readme_parallel_scanning",
+      "type": "file",
+      "file": "Parallel scanning.md",
+      "x": 4420,
+      "y": 400,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_components_animatedurlinput_props",
+      "type": "file",
+      "file": "Props_2.md",
+      "x": 4620,
+      "y": 400,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_components_scanlaunchmodal_props",
+      "type": "file",
+      "file": "Props_5.md",
+      "x": 4220,
+      "y": 480,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_components_heromarquee_row",
+      "type": "file",
+      "file": "Row.md",
+      "x": 4420,
+      "y": 480,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_components_scanlaunchmodal_steps",
+      "type": "file",
+      "file": "STEPS.md",
+      "x": 4620,
+      "y": 480,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_components_scanlaunchmodal_scanlaunchmodal",
+      "type": "file",
+      "file": "ScanLaunchModal().md",
+      "x": 4220,
+      "y": 560,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_components_scanlaunchmodal_tsx",
+      "type": "file",
+      "file": "ScanLaunchModal.tsx.md",
+      "x": 4420,
+      "y": 560,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_components_scanreport_scanreport",
+      "type": "file",
+      "file": "ScanReport().md",
+      "x": 4620,
+      "y": 560,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_components_heromarquee_valuecell",
+      "type": "file",
+      "file": "ValueCell().md",
+      "x": 4220,
+      "y": 640,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_lib_url_checkreportpath",
+      "type": "file",
+      "file": "checkReportPath().md",
+      "x": 4420,
+      "y": 640,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_lib_url_normalizedomain",
+      "type": "file",
+      "file": "normalizeDomain().md",
+      "x": 4620,
+      "y": 640,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_lib_url_scantargeturl",
+      "type": "file",
+      "file": "scanTargetUrl().md",
+      "x": 4220,
+      "y": 720,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_lib_url_ts",
+      "type": "file",
+      "file": "url.ts.md",
+      "x": 4420,
+      "y": 720,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g4",
+      "type": "group",
+      "label": "Core scan checks",
+      "x": 5600,
+      "y": 0,
+      "width": 1100,
+      "height": 820,
+      "color": "5"
+    },
+    {
+      "id": "n_checks_dns_types",
+      "type": "file",
+      "file": "TYPES.md",
+      "x": 5620,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_lib_registry_a",
+      "type": "file",
+      "file": "a.md",
+      "x": 5820,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_lib_registry_all",
+      "type": "file",
+      "file": "all.md",
+      "x": 6020,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_lib_registry_b",
+      "type": "file",
+      "file": "b.md",
+      "x": 5620,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_lib_checks_carbon_ts",
+      "type": "file",
+      "file": "carbon.ts.md",
+      "x": 5820,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_checks_carbon_carboncheck",
+      "type": "file",
+      "file": "carbonCheck.md",
+      "x": 6020,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_lib_registry_checklist",
+      "type": "file",
+      "file": "checkList.md",
+      "x": 5620,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_lib_checks_dns_ts",
+      "type": "file",
+      "file": "dns.ts.md",
+      "x": 5820,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_checks_dns_dnscheck",
+      "type": "file",
+      "file": "dnsCheck.md",
+      "x": 6020,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_lib_checks_redirects_ts",
+      "type": "file",
+      "file": "redirects.ts.md",
+      "x": 5620,
+      "y": 320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_checks_redirects_redirectscheck",
+      "type": "file",
+      "file": "redirectsCheck.md",
+      "x": 5820,
+      "y": 320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_lib_registry_ts",
+      "type": "file",
+      "file": "registry.ts.md",
+      "x": 6020,
+      "y": 320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_lib_checks_safe_browsing_ts",
+      "type": "file",
+      "file": "safe-browsing.ts.md",
+      "x": 5620,
+      "y": 400,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_checks_safe_browsing_safebrowsingcheck",
+      "type": "file",
+      "file": "safeBrowsingCheck.md",
+      "x": 5820,
+      "y": 400,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_lib_checks_status_ts",
+      "type": "file",
+      "file": "status.ts.md",
+      "x": 6020,
+      "y": 400,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_checks_status_statuscheck",
+      "type": "file",
+      "file": "statusCheck.md",
+      "x": 5620,
+      "y": 480,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_lib_checks_subdomains_ts",
+      "type": "file",
+      "file": "subdomains.ts.md",
+      "x": 5820,
+      "y": 480,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_checks_subdomains_subdomainscheck",
+      "type": "file",
+      "file": "subdomainsCheck.md",
+      "x": 6020,
+      "y": 480,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_lib_checks_tls_audit_ts",
+      "type": "file",
+      "file": "tls-audit.ts.md",
+      "x": 5620,
+      "y": 560,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_checks_tls_audit_tlsauditcheck",
+      "type": "file",
+      "file": "tlsAuditCheck.md",
+      "x": 5820,
+      "y": 560,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g5",
+      "type": "group",
+      "label": "Check card rendering",
+      "x": 0,
+      "y": 1400,
+      "width": 1100,
+      "height": 720,
+      "color": "6"
+    },
+    {
+      "id": "n_components_checkcard_cardimage",
+      "type": "file",
+      "file": "CardImage().md",
+      "x": 20,
+      "y": 1480,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_components_checkcard_checkcard",
+      "type": "file",
+      "file": "CheckCard().md",
+      "x": 220,
+      "y": 1480,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_components_checkcard_tsx",
+      "type": "file",
+      "file": "CheckCard.tsx.md",
+      "x": 420,
+      "y": 1480,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_components_checkcard_dot_label",
+      "type": "file",
+      "file": "DOT_LABEL.md",
+      "x": 20,
+      "y": 1560,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_components_checkcard_keyvaluedata",
+      "type": "file",
+      "file": "KeyValueData().md",
+      "x": 220,
+      "y": 1560,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_components_checkcard_props",
+      "type": "file",
+      "file": "Props_3.md",
+      "x": 420,
+      "y": 1560,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_components_checkcard_booleanstatus",
+      "type": "file",
+      "file": "booleanStatus().md",
+      "x": 20,
+      "y": 1640,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_components_checkcard_compactobject",
+      "type": "file",
+      "file": "compactObject().md",
+      "x": 220,
+      "y": 1640,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_components_checkcard_formatinline",
+      "type": "file",
+      "file": "formatInline().md",
+      "x": 420,
+      "y": 1640,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_components_checkcard_isplainobject",
+      "type": "file",
+      "file": "isPlainObject().md",
+      "x": 20,
+      "y": 1720,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_components_checkcard_label",
+      "type": "file",
+      "file": "label().md",
+      "x": 220,
+      "y": 1720,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_components_checkcard_redactresult",
+      "type": "file",
+      "file": "redactResult().md",
+      "x": 420,
+      "y": 1720,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_components_checkcard_redactvalue",
+      "type": "file",
+      "file": "redactValue().md",
+      "x": 20,
+      "y": 1800,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_components_checkcard_renderarray",
+      "type": "file",
+      "file": "renderArray().md",
+      "x": 220,
+      "y": 1800,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_components_checkcard_renderbody",
+      "type": "file",
+      "file": "renderBody().md",
+      "x": 420,
+      "y": 1800,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_components_checkcard_renderentry",
+      "type": "file",
+      "file": "renderEntry().md",
+      "x": 20,
+      "y": 1880,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_components_checkcard_renderscalar",
+      "type": "file",
+      "file": "renderScalar().md",
+      "x": 220,
+      "y": 1880,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_components_checkcard_sanitize",
+      "type": "file",
+      "file": "sanitize().md",
+      "x": 420,
+      "y": 1880,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g6",
+      "type": "group",
+      "label": "Content & crawl checks",
+      "x": 1400,
+      "y": 1400,
+      "width": 880,
+      "height": 620,
+      "color": "1"
+    },
+    {
+      "id": "n_lib_types_check",
+      "type": "file",
+      "file": "Check.md",
+      "x": 1420,
+      "y": 1480,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_lib_net_fetchhtml",
+      "type": "file",
+      "file": "fetchHtml().md",
+      "x": 1620,
+      "y": 1480,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_lib_checks_linked_pages_ts",
+      "type": "file",
+      "file": "linked-pages.ts.md",
+      "x": 1820,
+      "y": 1480,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_checks_linked_pages_linkedpagescheck",
+      "type": "file",
+      "file": "linkedPagesCheck.md",
+      "x": 1420,
+      "y": 1560,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_checks_social_tags_meta",
+      "type": "file",
+      "file": "meta()_1.md",
+      "x": 1620,
+      "y": 1560,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_lib_checks_robots_ts",
+      "type": "file",
+      "file": "robots.ts_1.md",
+      "x": 1820,
+      "y": 1560,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_checks_robots_robotscheck",
+      "type": "file",
+      "file": "robotsCheck.md",
+      "x": 1420,
+      "y": 1640,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_lib_checks_security_txt_ts",
+      "type": "file",
+      "file": "security-txt.ts.md",
+      "x": 1620,
+      "y": 1640,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_checks_security_txt_securitytxtcheck",
+      "type": "file",
+      "file": "securityTxtCheck.md",
+      "x": 1820,
+      "y": 1640,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_lib_checks_sitemap_ts",
+      "type": "file",
+      "file": "sitemap.ts_1.md",
+      "x": 1420,
+      "y": 1720,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_checks_sitemap_sitemapcheck",
+      "type": "file",
+      "file": "sitemapCheck.md",
+      "x": 1620,
+      "y": 1720,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_lib_checks_social_tags_ts",
+      "type": "file",
+      "file": "social-tags.ts.md",
+      "x": 1820,
+      "y": 1720,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_checks_social_tags_socialtagscheck",
+      "type": "file",
+      "file": "socialTagsCheck.md",
+      "x": 1420,
+      "y": 1800,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_lib_checks_trace_route_ts",
+      "type": "file",
+      "file": "trace-route.ts.md",
+      "x": 1620,
+      "y": 1800,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_checks_trace_route_traceroutecheck",
+      "type": "file",
+      "file": "traceRouteCheck.md",
+      "x": 1820,
+      "y": 1800,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g7",
+      "type": "group",
+      "label": "Cookies & blocklists",
+      "x": 2800,
+      "y": 1400,
+      "width": 880,
+      "height": 520,
+      "color": "2"
+    },
+    {
+      "id": "n_checks_cookies_parsedcookie",
+      "type": "file",
+      "file": "ParsedCookie.md",
+      "x": 2820,
+      "y": 1480,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_checks_block_lists_resolvers",
+      "type": "file",
+      "file": "RESOLVERS.md",
+      "x": 3020,
+      "y": 1480,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_lib_checks_block_lists_ts",
+      "type": "file",
+      "file": "block-lists.ts.md",
+      "x": 3220,
+      "y": 1480,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_checks_block_lists_blocklistscheck",
+      "type": "file",
+      "file": "blockListsCheck.md",
+      "x": 2820,
+      "y": 1560,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_lib_checks_cookies_ts",
+      "type": "file",
+      "file": "cookies.ts.md",
+      "x": 3020,
+      "y": 1560,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_checks_cookies_cookiescheck",
+      "type": "file",
+      "file": "cookiesCheck.md",
+      "x": 3220,
+      "y": 1560,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_lib_net_loadbootstrap",
+      "type": "file",
+      "file": "loadBootstrap().md",
+      "x": 2820,
+      "y": 1640,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_lib_net_rdapdomain",
+      "type": "file",
+      "file": "rdapDomain().md",
+      "x": 3020,
+      "y": 1640,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_checks_block_lists_resolves",
+      "type": "file",
+      "file": "resolves().md",
+      "x": 3220,
+      "y": 1640,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_lib_checks_screenshot_ts",
+      "type": "file",
+      "file": "screenshot.ts.md",
+      "x": 2820,
+      "y": 1720,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_checks_screenshot_screenshotcheck",
+      "type": "file",
+      "file": "screenshotCheck.md",
+      "x": 3020,
+      "y": 1720,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_lib_net_timedfetch",
+      "type": "file",
+      "file": "timedFetch().md",
+      "x": 3220,
+      "y": 1720,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g8",
+      "type": "group",
+      "label": "HTTP security headers",
+      "x": 4200,
+      "y": 1400,
+      "width": 880,
+      "height": 520,
+      "color": "3"
+    },
+    {
+      "id": "n_lib_remediation_header_remediation",
+      "type": "file",
+      "file": "HEADER_REMEDIATION.md",
+      "x": 4220,
+      "y": 1480,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_checks_headers_issue_headers",
+      "type": "file",
+      "file": "ISSUE_HEADERS.md",
+      "x": 4420,
+      "y": 1480,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_checks_http_security_policies",
+      "type": "file",
+      "file": "POLICIES.md",
+      "x": 4620,
+      "y": 1480,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_checks_headers_sec",
+      "type": "file",
+      "file": "SEC.md",
+      "x": 4220,
+      "y": 1560,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_lib_checks_headers_ts",
+      "type": "file",
+      "file": "headers.ts.md",
+      "x": 4420,
+      "y": 1560,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_checks_headers_headerscheck",
+      "type": "file",
+      "file": "headersCheck.md",
+      "x": 4620,
+      "y": 1560,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_lib_checks_hsts_ts",
+      "type": "file",
+      "file": "hsts.ts.md",
+      "x": 4220,
+      "y": 1640,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_checks_hsts_hstscheck",
+      "type": "file",
+      "file": "hstsCheck.md",
+      "x": 4420,
+      "y": 1640,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_lib_checks_http_security_ts",
+      "type": "file",
+      "file": "http-security.ts.md",
+      "x": 4620,
+      "y": 1640,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_checks_http_security_httpsecuritycheck",
+      "type": "file",
+      "file": "httpSecurityCheck.md",
+      "x": 4220,
+      "y": 1720,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_lib_remediation_ts",
+      "type": "file",
+      "file": "remediation.ts.md",
+      "x": 4420,
+      "y": 1720,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g9",
+      "type": "group",
+      "label": "API route handler",
+      "x": 5600,
+      "y": 1400,
+      "width": 660,
+      "height": 420,
+      "color": "4"
+    },
+    {
+      "id": "n_claude_check_registry",
+      "type": "file",
+      "file": "Check registry pattern.md",
+      "x": 5620,
+      "y": 1480,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_claude_dynamic_check_handler",
+      "type": "file",
+      "file": "Dynamic check route handler.md",
+      "x": 5820,
+      "y": 1480,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_id_route_get",
+      "type": "file",
+      "file": "GET().md",
+      "x": 6020,
+      "y": 1480,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_claude_vercel_10s_cap",
+      "type": "file",
+      "file": "Vercel 10 second function cap.md",
+      "x": 5620,
+      "y": 1560,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_lib_registry_registry",
+      "type": "file",
+      "file": "registry.md",
+      "x": 5820,
+      "y": 1560,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_app_api_check_id_route_ts",
+      "type": "file",
+      "file": "route.ts.md",
+      "x": 6020,
+      "y": 1560,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_id_route_withtimeout",
+      "type": "file",
+      "file": "withTimeout().md",
+      "x": 5620,
+      "y": 1640,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g10",
+      "type": "group",
+      "label": "Lighthouse quality",
+      "x": 0,
+      "y": 2200,
+      "width": 660,
+      "height": 400,
+      "color": "5"
+    },
+    {
+      "id": "n_checks_quality_lighthouseaudit",
+      "type": "file",
+      "file": "LighthouseAudit.md",
+      "x": 20,
+      "y": 2280,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_checks_quality_lighthousecategory",
+      "type": "file",
+      "file": "LighthouseCategory.md",
+      "x": 220,
+      "y": 2280,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_checks_quality_extractcategory",
+      "type": "file",
+      "file": "extractCategory().md",
+      "x": 420,
+      "y": 2280,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_lib_checks_quality_ts",
+      "type": "file",
+      "file": "quality.ts.md",
+      "x": 20,
+      "y": 2360,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_checks_quality_qualitycheck",
+      "type": "file",
+      "file": "qualityCheck.md",
+      "x": 220,
+      "y": 2360,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g11",
+      "type": "group",
+      "label": "SEO check module",
+      "x": 1400,
+      "y": 2200,
+      "width": 600,
+      "height": 400,
+      "color": "6"
+    },
+    {
+      "id": "n_checks_seo_remediation",
+      "type": "file",
+      "file": "REMEDIATION.md",
+      "x": 1420,
+      "y": 2280,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_checks_seo_meta",
+      "type": "file",
+      "file": "meta().md",
+      "x": 1620,
+      "y": 2280,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_lib_checks_seo_ts",
+      "type": "file",
+      "file": "seo.ts.md",
+      "x": 1820,
+      "y": 2280,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_checks_seo_seocheck",
+      "type": "file",
+      "file": "seoCheck.md",
+      "x": 1420,
+      "y": 2360,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g12",
+      "type": "group",
+      "label": "Tech stack detection",
+      "x": 2800,
+      "y": 2200,
+      "width": 600,
+      "height": 400,
+      "color": "1"
+    },
+    {
+      "id": "n_checks_tech_stack_signatures",
+      "type": "file",
+      "file": "SIGNATURES.md",
+      "x": 2820,
+      "y": 2280,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_checks_tech_stack_sig",
+      "type": "file",
+      "file": "Sig.md",
+      "x": 3020,
+      "y": 2280,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_lib_checks_tech_stack_ts",
+      "type": "file",
+      "file": "tech-stack.ts.md",
+      "x": 3220,
+      "y": 2280,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_checks_tech_stack_techstackcheck",
+      "type": "file",
+      "file": "techStackCheck.md",
+      "x": 2820,
+      "y": 2360,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g13",
+      "type": "group",
+      "label": "Network utilities",
+      "x": 4200,
+      "y": 2200,
+      "width": 600,
+      "height": 400,
+      "color": "2"
+    },
+    {
+      "id": "n_checks_ports_common",
+      "type": "file",
+      "file": "COMMON.md",
+      "x": 4220,
+      "y": 2280,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_lib_checks_ports_ts",
+      "type": "file",
+      "file": "ports.ts.md",
+      "x": 4420,
+      "y": 2280,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_checks_ports_portscheck",
+      "type": "file",
+      "file": "portsCheck.md",
+      "x": 4620,
+      "y": 2280,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_checks_ports_probe",
+      "type": "file",
+      "file": "probe().md",
+      "x": 4220,
+      "y": 2360,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g14",
+      "type": "group",
+      "label": "Scan orchestration",
+      "x": 5600,
+      "y": 2200,
+      "width": 600,
+      "height": 400,
+      "color": "3"
+    },
+    {
+      "id": "n_app_icon_icon",
+      "type": "file",
+      "file": "Icon().md",
+      "x": 5620,
+      "y": 2280,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_app_icon_tsx",
+      "type": "file",
+      "file": "icon.tsx.md",
+      "x": 5820,
+      "y": 2280,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_app_icon_size",
+      "type": "file",
+      "file": "size.md",
+      "x": 6020,
+      "y": 2280,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g15",
+      "type": "group",
+      "label": "Types & contracts",
+      "x": 0,
+      "y": 2680,
+      "width": 600,
+      "height": 400,
+      "color": "4"
+    },
+    {
+      "id": "n_checks_tls_formatephemeralkey",
+      "type": "file",
+      "file": "formatEphemeralKey().md",
+      "x": 20,
+      "y": 2760,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_lib_checks_tls_ts",
+      "type": "file",
+      "file": "tls.ts.md",
+      "x": 220,
+      "y": 2760,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_checks_tls_tlscheck",
+      "type": "file",
+      "file": "tlsCheck.md",
+      "x": 420,
+      "y": 2760,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g16",
+      "type": "group",
+      "label": "URL helpers",
+      "x": 1400,
+      "y": 2680,
+      "width": 600,
+      "height": 400,
+      "color": "5"
+    },
+    {
+      "id": "n_checks_server_info_country_names",
+      "type": "file",
+      "file": "COUNTRY_NAMES.md",
+      "x": 1420,
+      "y": 2760,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_lib_checks_server_info_ts",
+      "type": "file",
+      "file": "server-info.ts.md",
+      "x": 1620,
+      "y": 2760,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_checks_server_info_serverinfocheck",
+      "type": "file",
+      "file": "serverInfoCheck.md",
+      "x": 1820,
+      "y": 2760,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g17",
+      "type": "group",
+      "label": "TLS audit",
+      "x": 2800,
+      "y": 2680,
+      "width": 600,
+      "height": 400,
+      "color": "6"
+    },
+    {
+      "id": "n_checks_firewall_waf_header_sigs",
+      "type": "file",
+      "file": "WAF_HEADER_SIGS.md",
+      "x": 2820,
+      "y": 2760,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_lib_checks_firewall_ts",
+      "type": "file",
+      "file": "firewall.ts.md",
+      "x": 3020,
+      "y": 2760,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_checks_firewall_firewallcheck",
+      "type": "file",
+      "file": "firewallCheck.md",
+      "x": 3220,
+      "y": 2760,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g18",
+      "type": "group",
+      "label": "Server info",
+      "x": 4200,
+      "y": 2680,
+      "width": 600,
+      "height": 400,
+      "color": "1"
+    },
+    {
+      "id": "n_lib_checks_archives_ts",
+      "type": "file",
+      "file": "archives.ts.md",
+      "x": 4220,
+      "y": 2760,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_checks_archives_archivescheck",
+      "type": "file",
+      "file": "archivesCheck.md",
+      "x": 4420,
+      "y": 2760,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_checks_archives_formattimestamp",
+      "type": "file",
+      "file": "formatTimestamp().md",
+      "x": 4620,
+      "y": 2760,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g19",
+      "type": "group",
+      "label": "Firewall detection",
+      "x": 5600,
+      "y": 2680,
+      "width": 600,
+      "height": 400,
+      "color": "2"
+    },
+    {
+      "id": "n_next_config_mjs",
+      "type": "file",
+      "file": "next.config.mjs.md",
+      "x": 5620,
+      "y": 2760,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_untitled_folder_next_config_nextconfig",
+      "type": "file",
+      "file": "nextConfig.md",
+      "x": 5820,
+      "y": 2760,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g20",
+      "type": "group",
+      "label": "Mail config",
+      "x": 0,
+      "y": 3160,
+      "width": 600,
+      "height": 400,
+      "color": "3"
+    },
+    {
+      "id": "n_next_env_d_ts",
+      "type": "file",
+      "file": "next-env.d.ts.md",
+      "x": 20,
+      "y": 3240,
+      "width": 180,
+      "height": 60
+    }
+  ],
+  "edges": [
+    {
+      "id": "e_next_config_mjs_untitled_folder_next_config_nextconfig",
+      "fromNode": "n_next_config_mjs",
+      "toNode": "n_untitled_folder_next_config_nextconfig",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_app_robots_ts_lib_site_seo_ts",
+      "fromNode": "n_app_robots_ts",
+      "toNode": "n_lib_site_seo_ts",
+      "label": "imports_from [EXTRACTED]"
+    },
+    {
+      "id": "e_app_robots_ts_lib_site_seo_absoluteurl",
+      "fromNode": "n_app_robots_ts",
+      "toNode": "n_lib_site_seo_absoluteurl",
+      "label": "imports [EXTRACTED]"
+    },
+    {
+      "id": "e_app_robots_ts_app_robots_robots",
+      "fromNode": "n_app_robots_ts",
+      "toNode": "n_app_robots_robots",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_app_robots_robots_lib_site_seo_absoluteurl",
+      "fromNode": "n_app_robots_robots",
+      "toNode": "n_lib_site_seo_absoluteurl",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_app_icon_tsx_app_icon_size",
+      "fromNode": "n_app_icon_tsx",
+      "toNode": "n_app_icon_size",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_app_icon_tsx_app_icon_icon",
+      "fromNode": "n_app_icon_tsx",
+      "toNode": "n_app_icon_icon",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_app_opengraph_image_tsx_lib_site_seo_ts",
+      "fromNode": "n_app_opengraph_image_tsx",
+      "toNode": "n_lib_site_seo_ts",
+      "label": "imports_from [EXTRACTED]"
+    },
+    {
+      "id": "e_app_opengraph_image_tsx_app_opengraph_image_size",
+      "fromNode": "n_app_opengraph_image_tsx",
+      "toNode": "n_app_opengraph_image_size",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_app_opengraph_image_tsx_app_opengraph_image_opengraphimage",
+      "fromNode": "n_app_opengraph_image_tsx",
+      "toNode": "n_app_opengraph_image_opengraphimage",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_app_sitemap_ts_lib_site_seo_ts",
+      "fromNode": "n_app_sitemap_ts",
+      "toNode": "n_lib_site_seo_ts",
+      "label": "imports_from [EXTRACTED]"
+    },
+    {
+      "id": "e_app_sitemap_ts_lib_site_seo_absoluteurl",
+      "fromNode": "n_app_sitemap_ts",
+      "toNode": "n_lib_site_seo_absoluteurl",
+      "label": "imports [EXTRACTED]"
+    },
+    {
+      "id": "e_app_sitemap_ts_app_sitemap_sitemap",
+      "fromNode": "n_app_sitemap_ts",
+      "toNode": "n_app_sitemap_sitemap",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_app_sitemap_sitemap_lib_site_seo_absoluteurl",
+      "fromNode": "n_app_sitemap_sitemap",
+      "toNode": "n_lib_site_seo_absoluteurl",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_app_layout_tsx_lib_site_seo_ts",
+      "fromNode": "n_app_layout_tsx",
+      "toNode": "n_lib_site_seo_ts",
+      "label": "imports_from [EXTRACTED]"
+    },
+    {
+      "id": "e_app_layout_tsx_lib_site_seo_buildrootmetadata",
+      "fromNode": "n_app_layout_tsx",
+      "toNode": "n_lib_site_seo_buildrootmetadata",
+      "label": "imports [EXTRACTED]"
+    },
+    {
+      "id": "e_app_layout_tsx_app_layout_ptmono",
+      "fromNode": "n_app_layout_tsx",
+      "toNode": "n_app_layout_ptmono",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_app_layout_tsx_app_layout_bangers",
+      "fromNode": "n_app_layout_tsx",
+      "toNode": "n_app_layout_bangers",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_app_layout_tsx_app_layout_metadata",
+      "fromNode": "n_app_layout_tsx",
+      "toNode": "n_app_layout_metadata",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_app_layout_tsx_app_layout_viewport",
+      "fromNode": "n_app_layout_tsx",
+      "toNode": "n_app_layout_viewport",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_app_layout_tsx_app_layout_rootlayout",
+      "fromNode": "n_app_layout_tsx",
+      "toNode": "n_app_layout_rootlayout",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_app_page_tsx_components_homepage_tsx",
+      "fromNode": "n_app_page_tsx",
+      "toNode": "n_components_homepage_tsx",
+      "label": "imports_from [EXTRACTED]"
+    },
+    {
+      "id": "e_app_page_tsx_components_homepage_homepage",
+      "fromNode": "n_app_page_tsx",
+      "toNode": "n_components_homepage_homepage",
+      "label": "imports [EXTRACTED]"
+    },
+    {
+      "id": "e_app_page_tsx_components_jsonld_tsx",
+      "fromNode": "n_app_page_tsx",
+      "toNode": "n_components_jsonld_tsx",
+      "label": "imports_from [EXTRACTED]"
+    },
+    {
+      "id": "e_app_page_tsx_components_jsonld_jsonld",
+      "fromNode": "n_app_page_tsx",
+      "toNode": "n_components_jsonld_jsonld",
+      "label": "imports [EXTRACTED]"
+    },
+    {
+      "id": "e_app_page_tsx_lib_site_seo_ts",
+      "fromNode": "n_app_page_tsx",
+      "toNode": "n_lib_site_seo_ts",
+      "label": "imports_from [EXTRACTED]"
+    },
+    {
+      "id": "e_app_page_tsx_lib_site_seo_buildhomemetadata",
+      "fromNode": "n_app_page_tsx",
+      "toNode": "n_lib_site_seo_buildhomemetadata",
+      "label": "imports [EXTRACTED]"
+    },
+    {
+      "id": "e_app_page_tsx_lib_site_seo_webapplicationjsonld",
+      "fromNode": "n_app_page_tsx",
+      "toNode": "n_lib_site_seo_webapplicationjsonld",
+      "label": "imports [EXTRACTED]"
+    },
+    {
+      "id": "e_app_page_tsx_app_page_metadata",
+      "fromNode": "n_app_page_tsx",
+      "toNode": "n_app_page_metadata",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_app_page_tsx_app_page_page",
+      "fromNode": "n_app_page_tsx",
+      "toNode": "n_app_page_page",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_app_page_page_lib_site_seo_webapplicationjsonld",
+      "fromNode": "n_app_page_page",
+      "toNode": "n_lib_site_seo_webapplicationjsonld",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_app_api_check_id_route_ts_lib_registry_ts",
+      "fromNode": "n_app_api_check_id_route_ts",
+      "toNode": "n_lib_registry_ts",
+      "label": "imports_from [EXTRACTED]"
+    },
+    {
+      "id": "e_app_api_check_id_route_ts_lib_registry_registry",
+      "fromNode": "n_app_api_check_id_route_ts",
+      "toNode": "n_lib_registry_registry",
+      "label": "imports [EXTRACTED]"
+    },
+    {
+      "id": "e_app_api_check_id_route_ts_lib_types_ts",
+      "fromNode": "n_app_api_check_id_route_ts",
+      "toNode": "n_lib_types_ts",
+      "label": "imports_from [EXTRACTED]"
+    },
+    {
+      "id": "e_app_api_check_id_route_ts_lib_types_checkresult",
+      "fromNode": "n_app_api_check_id_route_ts",
+      "toNode": "n_lib_types_checkresult",
+      "label": "imports [EXTRACTED]"
+    },
+    {
+      "id": "e_app_api_check_id_route_ts_id_route_get",
+      "fromNode": "n_app_api_check_id_route_ts",
+      "toNode": "n_id_route_get",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_app_api_check_id_route_ts_id_route_withtimeout",
+      "fromNode": "n_app_api_check_id_route_ts",
+      "toNode": "n_id_route_withtimeout",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_id_route_get_id_route_withtimeout",
+      "fromNode": "n_id_route_get",
+      "toNode": "n_id_route_withtimeout",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_id_route_get_claude_dynamic_check_handler",
+      "fromNode": "n_id_route_get",
+      "toNode": "n_claude_dynamic_check_handler",
+      "label": "implements [INFERRED]"
+    },
+    {
+      "id": "e_id_route_get_claude_vercel_10s_cap",
+      "fromNode": "n_id_route_get",
+      "toNode": "n_claude_vercel_10s_cap",
+      "label": "conceptually_related_to [INFERRED]"
+    },
+    {
+      "id": "e_app_check_domain_page_tsx_components_checkpageclient_tsx",
+      "fromNode": "n_app_check_domain_page_tsx",
+      "toNode": "n_components_checkpageclient_tsx",
+      "label": "imports_from [EXTRACTED]"
+    },
+    {
+      "id": "e_app_check_domain_page_tsx_components_checkpageclient_checkpageclient",
+      "fromNode": "n_app_check_domain_page_tsx",
+      "toNode": "n_components_checkpageclient_checkpageclient",
+      "label": "imports [EXTRACTED]"
+    },
+    {
+      "id": "e_app_check_domain_page_tsx_components_jsonld_tsx",
+      "fromNode": "n_app_check_domain_page_tsx",
+      "toNode": "n_components_jsonld_tsx",
+      "label": "imports_from [EXTRACTED]"
+    },
+    {
+      "id": "e_app_check_domain_page_tsx_components_jsonld_jsonld",
+      "fromNode": "n_app_check_domain_page_tsx",
+      "toNode": "n_components_jsonld_jsonld",
+      "label": "imports [EXTRACTED]"
+    },
+    {
+      "id": "e_app_check_domain_page_tsx_lib_site_seo_ts",
+      "fromNode": "n_app_check_domain_page_tsx",
+      "toNode": "n_lib_site_seo_ts",
+      "label": "imports_from [EXTRACTED]"
+    },
+    {
+      "id": "e_app_check_domain_page_tsx_lib_site_seo_buildreportmetadata",
+      "fromNode": "n_app_check_domain_page_tsx",
+      "toNode": "n_lib_site_seo_buildreportmetadata",
+      "label": "imports [EXTRACTED]"
+    },
+    {
+      "id": "e_app_check_domain_page_tsx_lib_site_seo_reportpagejsonld",
+      "fromNode": "n_app_check_domain_page_tsx",
+      "toNode": "n_lib_site_seo_reportpagejsonld",
+      "label": "imports [EXTRACTED]"
+    },
+    {
+      "id": "e_app_check_domain_page_tsx_lib_url_ts",
+      "fromNode": "n_app_check_domain_page_tsx",
+      "toNode": "n_lib_url_ts",
+      "label": "imports_from [EXTRACTED]"
+    },
+    {
+      "id": "e_app_check_domain_page_tsx_lib_url_normalizedomain",
+      "fromNode": "n_app_check_domain_page_tsx",
+      "toNode": "n_lib_url_normalizedomain",
+      "label": "imports [EXTRACTED]"
+    },
+    {
+      "id": "e_app_check_domain_page_tsx_domain_page_generatemetadata",
+      "fromNode": "n_app_check_domain_page_tsx",
+      "toNode": "n_domain_page_generatemetadata",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_app_check_domain_page_tsx_domain_page_checkpage",
+      "fromNode": "n_app_check_domain_page_tsx",
+      "toNode": "n_domain_page_checkpage",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_domain_page_generatemetadata_lib_url_normalizedomain",
+      "fromNode": "n_domain_page_generatemetadata",
+      "toNode": "n_lib_url_normalizedomain",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_domain_page_generatemetadata_lib_site_seo_buildreportmetadata",
+      "fromNode": "n_domain_page_generatemetadata",
+      "toNode": "n_lib_site_seo_buildreportmetadata",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_domain_page_checkpage_lib_url_normalizedomain",
+      "fromNode": "n_domain_page_checkpage",
+      "toNode": "n_lib_url_normalizedomain",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_domain_page_checkpage_lib_site_seo_reportpagejsonld",
+      "fromNode": "n_domain_page_checkpage",
+      "toNode": "n_lib_site_seo_reportpagejsonld",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_domain_page_checkpage_readme_shareable_reports",
+      "fromNode": "n_domain_page_checkpage",
+      "toNode": "n_readme_shareable_reports",
+      "label": "conceptually_related_to [INFERRED]"
+    },
+    {
+      "id": "e_components_jsonld_tsx_components_jsonld_props",
+      "fromNode": "n_components_jsonld_tsx",
+      "toNode": "n_components_jsonld_props",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_components_jsonld_tsx_components_jsonld_jsonld",
+      "fromNode": "n_components_jsonld_tsx",
+      "toNode": "n_components_jsonld_jsonld",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_components_checkpageclient_tsx_components_scanreport_tsx",
+      "fromNode": "n_components_checkpageclient_tsx",
+      "toNode": "n_components_scanreport_tsx",
+      "label": "imports_from [EXTRACTED]"
+    },
+    {
+      "id": "e_components_checkpageclient_tsx_components_scanreport_scanreport",
+      "fromNode": "n_components_checkpageclient_tsx",
+      "toNode": "n_components_scanreport_scanreport",
+      "label": "imports [EXTRACTED]"
+    },
+    {
+      "id": "e_components_checkpageclient_tsx_components_checkpageclient_props",
+      "fromNode": "n_components_checkpageclient_tsx",
+      "toNode": "n_components_checkpageclient_props",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_components_checkpageclient_tsx_components_checkpageclient_checkpageclient",
+      "fromNode": "n_components_checkpageclient_tsx",
+      "toNode": "n_components_checkpageclient_checkpageclient",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_components_animatedurlinput_tsx_components_animatedurlinput_examples",
+      "fromNode": "n_components_animatedurlinput_tsx",
+      "toNode": "n_components_animatedurlinput_examples",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_components_animatedurlinput_tsx_components_animatedurlinput_props",
+      "fromNode": "n_components_animatedurlinput_tsx",
+      "toNode": "n_components_animatedurlinput_props",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_components_animatedurlinput_tsx_components_animatedurlinput_animatedurlinput",
+      "fromNode": "n_components_animatedurlinput_tsx",
+      "toNode": "n_components_animatedurlinput_animatedurlinput",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_components_animatedurlinput_tsx_components_homepage_tsx",
+      "fromNode": "n_components_animatedurlinput_tsx",
+      "toNode": "n_components_homepage_tsx",
+      "label": "imports_from [EXTRACTED]"
+    },
+    {
+      "id": "e_components_animatedurlinput_animatedurlinput_components_homepage_tsx",
+      "fromNode": "n_components_animatedurlinput_animatedurlinput",
+      "toNode": "n_components_homepage_tsx",
+      "label": "imports [EXTRACTED]"
+    },
+    {
+      "id": "e_components_checkcard_tsx_lib_types_ts",
+      "fromNode": "n_components_checkcard_tsx",
+      "toNode": "n_lib_types_ts",
+      "label": "imports_from [EXTRACTED]"
+    },
+    {
+      "id": "e_components_checkcard_tsx_lib_types_checkresult",
+      "fromNode": "n_components_checkcard_tsx",
+      "toNode": "n_lib_types_checkresult",
+      "label": "imports [EXTRACTED]"
+    },
+    {
+      "id": "e_components_checkcard_tsx_components_checkcard_cardstate",
+      "fromNode": "n_components_checkcard_tsx",
+      "toNode": "n_components_checkcard_cardstate",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_components_checkcard_tsx_components_checkcard_props",
+      "fromNode": "n_components_checkcard_tsx",
+      "toNode": "n_components_checkcard_props",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_components_checkcard_tsx_components_checkcard_dot_label",
+      "fromNode": "n_components_checkcard_tsx",
+      "toNode": "n_components_checkcard_dot_label",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_components_checkcard_tsx_components_checkcard_checkcard",
+      "fromNode": "n_components_checkcard_tsx",
+      "toNode": "n_components_checkcard_checkcard",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_components_checkcard_tsx_components_checkcard_renderbody",
+      "fromNode": "n_components_checkcard_tsx",
+      "toNode": "n_components_checkcard_renderbody",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_components_checkcard_tsx_components_checkcard_keyvaluedata",
+      "fromNode": "n_components_checkcard_tsx",
+      "toNode": "n_components_checkcard_keyvaluedata",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_components_checkcard_tsx_components_checkcard_renderentry",
+      "fromNode": "n_components_checkcard_tsx",
+      "toNode": "n_components_checkcard_renderentry",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_components_checkcard_tsx_components_checkcard_renderarray",
+      "fromNode": "n_components_checkcard_tsx",
+      "toNode": "n_components_checkcard_renderarray",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_components_checkcard_tsx_components_checkcard_renderscalar",
+      "fromNode": "n_components_checkcard_tsx",
+      "toNode": "n_components_checkcard_renderscalar",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_components_checkcard_tsx_components_checkcard_booleanstatus",
+      "fromNode": "n_components_checkcard_tsx",
+      "toNode": "n_components_checkcard_booleanstatus",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_components_checkcard_tsx_components_checkcard_compactobject",
+      "fromNode": "n_components_checkcard_tsx",
+      "toNode": "n_components_checkcard_compactobject",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_components_checkcard_tsx_components_checkcard_formatinline",
+      "fromNode": "n_components_checkcard_tsx",
+      "toNode": "n_components_checkcard_formatinline",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_components_checkcard_tsx_components_checkcard_label",
+      "fromNode": "n_components_checkcard_tsx",
+      "toNode": "n_components_checkcard_label",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_components_checkcard_tsx_components_checkcard_isplainobject",
+      "fromNode": "n_components_checkcard_tsx",
+      "toNode": "n_components_checkcard_isplainobject",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_components_checkcard_tsx_components_checkcard_cardimage",
+      "fromNode": "n_components_checkcard_tsx",
+      "toNode": "n_components_checkcard_cardimage",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_components_checkcard_tsx_components_checkcard_sanitize",
+      "fromNode": "n_components_checkcard_tsx",
+      "toNode": "n_components_checkcard_sanitize",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_components_checkcard_tsx_components_checkcard_redactresult",
+      "fromNode": "n_components_checkcard_tsx",
+      "toNode": "n_components_checkcard_redactresult",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_components_checkcard_tsx_components_checkcard_redactvalue",
+      "fromNode": "n_components_checkcard_tsx",
+      "toNode": "n_components_checkcard_redactvalue",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_components_checkcard_tsx_components_checkgrid_tsx",
+      "fromNode": "n_components_checkcard_tsx",
+      "toNode": "n_components_checkgrid_tsx",
+      "label": "imports_from [EXTRACTED]"
+    },
+    {
+      "id": "e_components_checkcard_cardstate_components_checkgrid_tsx",
+      "fromNode": "n_components_checkcard_cardstate",
+      "toNode": "n_components_checkgrid_tsx",
+      "label": "imports [EXTRACTED]"
+    },
+    {
+      "id": "e_components_checkcard_checkcard_components_checkcard_redactresult",
+      "fromNode": "n_components_checkcard_checkcard",
+      "toNode": "n_components_checkcard_redactresult",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_components_checkcard_checkcard_components_checkcard_renderbody",
+      "fromNode": "n_components_checkcard_checkcard",
+      "toNode": "n_components_checkcard_renderbody",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_components_checkcard_checkcard_components_checkgrid_tsx",
+      "fromNode": "n_components_checkcard_checkcard",
+      "toNode": "n_components_checkgrid_tsx",
+      "label": "imports [EXTRACTED]"
+    },
+    {
+      "id": "e_components_checkcard_renderbody_components_checkcard_sanitize",
+      "fromNode": "n_components_checkcard_renderbody",
+      "toNode": "n_components_checkcard_sanitize",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_components_checkcard_keyvaluedata_components_checkcard_sanitize",
+      "fromNode": "n_components_checkcard_keyvaluedata",
+      "toNode": "n_components_checkcard_sanitize",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_components_checkcard_renderentry_components_checkcard_isplainobject",
+      "fromNode": "n_components_checkcard_renderentry",
+      "toNode": "n_components_checkcard_isplainobject",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_components_checkcard_renderentry_components_checkcard_label",
+      "fromNode": "n_components_checkcard_renderentry",
+      "toNode": "n_components_checkcard_label",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_components_checkcard_renderentry_components_checkcard_renderarray",
+      "fromNode": "n_components_checkcard_renderentry",
+      "toNode": "n_components_checkcard_renderarray",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_components_checkcard_renderentry_components_checkcard_renderscalar",
+      "fromNode": "n_components_checkcard_renderentry",
+      "toNode": "n_components_checkcard_renderscalar",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_components_checkcard_renderscalar_components_checkcard_booleanstatus",
+      "fromNode": "n_components_checkcard_renderscalar",
+      "toNode": "n_components_checkcard_booleanstatus",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_components_checkcard_compactobject_components_checkcard_formatinline",
+      "fromNode": "n_components_checkcard_compactobject",
+      "toNode": "n_components_checkcard_formatinline",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_components_checkcard_formatinline_components_checkcard_isplainobject",
+      "fromNode": "n_components_checkcard_formatinline",
+      "toNode": "n_components_checkcard_isplainobject",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_components_checkcard_isplainobject_components_checkcard_redactvalue",
+      "fromNode": "n_components_checkcard_isplainobject",
+      "toNode": "n_components_checkcard_redactvalue",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_components_checkcard_redactresult_components_checkcard_redactvalue",
+      "fromNode": "n_components_checkcard_redactresult",
+      "toNode": "n_components_checkcard_redactvalue",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_components_heromarquee_tsx_components_heromarquee_row",
+      "fromNode": "n_components_heromarquee_tsx",
+      "toNode": "n_components_heromarquee_row",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_components_heromarquee_tsx_components_heromarquee_marqueecard",
+      "fromNode": "n_components_heromarquee_tsx",
+      "toNode": "n_components_heromarquee_marqueecard",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_components_heromarquee_tsx_components_heromarquee_column_a",
+      "fromNode": "n_components_heromarquee_tsx",
+      "toNode": "n_components_heromarquee_column_a",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_components_heromarquee_tsx_components_heromarquee_column_b",
+      "fromNode": "n_components_heromarquee_tsx",
+      "toNode": "n_components_heromarquee_column_b",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_components_heromarquee_tsx_components_heromarquee_valuecell",
+      "fromNode": "n_components_heromarquee_tsx",
+      "toNode": "n_components_heromarquee_valuecell",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_components_heromarquee_tsx_components_heromarquee_marqueecardview",
+      "fromNode": "n_components_heromarquee_tsx",
+      "toNode": "n_components_heromarquee_marqueecardview",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_components_heromarquee_tsx_components_heromarquee_marqueecolumn",
+      "fromNode": "n_components_heromarquee_tsx",
+      "toNode": "n_components_heromarquee_marqueecolumn",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_components_heromarquee_tsx_components_heromarquee_heromarquee",
+      "fromNode": "n_components_heromarquee_tsx",
+      "toNode": "n_components_heromarquee_heromarquee",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_components_heromarquee_tsx_components_homepage_tsx",
+      "fromNode": "n_components_heromarquee_tsx",
+      "toNode": "n_components_homepage_tsx",
+      "label": "imports_from [EXTRACTED]"
+    },
+    {
+      "id": "e_components_heromarquee_heromarquee_components_homepage_tsx",
+      "fromNode": "n_components_heromarquee_heromarquee",
+      "toNode": "n_components_homepage_tsx",
+      "label": "imports [EXTRACTED]"
+    },
+    {
+      "id": "e_components_copybutton_tsx_components_copybutton_copybutton",
+      "fromNode": "n_components_copybutton_tsx",
+      "toNode": "n_components_copybutton_copybutton",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_components_copybutton_tsx_components_advisorysummary_tsx",
+      "fromNode": "n_components_copybutton_tsx",
+      "toNode": "n_components_advisorysummary_tsx",
+      "label": "imports_from [EXTRACTED]"
+    },
+    {
+      "id": "e_components_copybutton_copybutton_components_advisorysummary_tsx",
+      "fromNode": "n_components_copybutton_copybutton",
+      "toNode": "n_components_advisorysummary_tsx",
+      "label": "imports [EXTRACTED]"
+    },
+    {
+      "id": "e_components_advisorysummary_tsx_lib_types_ts",
+      "fromNode": "n_components_advisorysummary_tsx",
+      "toNode": "n_lib_types_ts",
+      "label": "imports_from [EXTRACTED]"
+    },
+    {
+      "id": "e_components_advisorysummary_tsx_lib_types_advisorylevel",
+      "fromNode": "n_components_advisorysummary_tsx",
+      "toNode": "n_lib_types_advisorylevel",
+      "label": "imports [EXTRACTED]"
+    },
+    {
+      "id": "e_components_advisorysummary_tsx_lib_types_checkresult",
+      "fromNode": "n_components_advisorysummary_tsx",
+      "toNode": "n_lib_types_checkresult",
+      "label": "imports [EXTRACTED]"
+    },
+    {
+      "id": "e_components_advisorysummary_tsx_lib_manifest_ts",
+      "fromNode": "n_components_advisorysummary_tsx",
+      "toNode": "n_lib_manifest_ts",
+      "label": "imports_from [EXTRACTED]"
+    },
+    {
+      "id": "e_components_advisorysummary_tsx_lib_manifest_checktitle",
+      "fromNode": "n_components_advisorysummary_tsx",
+      "toNode": "n_lib_manifest_checktitle",
+      "label": "imports [EXTRACTED]"
+    },
+    {
+      "id": "e_components_advisorysummary_tsx_components_advisorysummary_props",
+      "fromNode": "n_components_advisorysummary_tsx",
+      "toNode": "n_components_advisorysummary_props",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_components_advisorysummary_tsx_components_advisorysummary_row",
+      "fromNode": "n_components_advisorysummary_tsx",
+      "toNode": "n_components_advisorysummary_row",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_components_advisorysummary_tsx_components_advisorysummary_order",
+      "fromNode": "n_components_advisorysummary_tsx",
+      "toNode": "n_components_advisorysummary_order",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_components_advisorysummary_tsx_components_advisorysummary_label",
+      "fromNode": "n_components_advisorysummary_tsx",
+      "toNode": "n_components_advisorysummary_label",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_components_advisorysummary_tsx_components_advisorysummary_advisorysummary",
+      "fromNode": "n_components_advisorysummary_tsx",
+      "toNode": "n_components_advisorysummary_advisorysummary",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_components_advisorysummary_tsx_components_scanreport_tsx",
+      "fromNode": "n_components_advisorysummary_tsx",
+      "toNode": "n_components_scanreport_tsx",
+      "label": "imports_from [EXTRACTED]"
+    },
+    {
+      "id": "e_components_advisorysummary_advisorysummary_components_scanreport_tsx",
+      "fromNode": "n_components_advisorysummary_advisorysummary",
+      "toNode": "n_components_scanreport_tsx",
+      "label": "imports [EXTRACTED]"
+    },
+    {
+      "id": "e_components_advisorysummary_advisorysummary_claude_advisory_remediation",
+      "fromNode": "n_components_advisorysummary_advisorysummary",
+      "toNode": "n_claude_advisory_remediation",
+      "label": "conceptually_related_to [INFERRED]"
+    },
+    {
+      "id": "e_components_scanlaunchmodal_tsx_components_scanlaunchmodal_steps",
+      "fromNode": "n_components_scanlaunchmodal_tsx",
+      "toNode": "n_components_scanlaunchmodal_steps",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_components_scanlaunchmodal_tsx_components_scanlaunchmodal_props",
+      "fromNode": "n_components_scanlaunchmodal_tsx",
+      "toNode": "n_components_scanlaunchmodal_props",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_components_scanlaunchmodal_tsx_components_scanlaunchmodal_scanlaunchmodal",
+      "fromNode": "n_components_scanlaunchmodal_tsx",
+      "toNode": "n_components_scanlaunchmodal_scanlaunchmodal",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_components_scanlaunchmodal_tsx_components_homepage_tsx",
+      "fromNode": "n_components_scanlaunchmodal_tsx",
+      "toNode": "n_components_homepage_tsx",
+      "label": "imports_from [EXTRACTED]"
+    },
+    {
+      "id": "e_components_scanlaunchmodal_scanlaunchmodal_components_homepage_tsx",
+      "fromNode": "n_components_scanlaunchmodal_scanlaunchmodal",
+      "toNode": "n_components_homepage_tsx",
+      "label": "imports [EXTRACTED]"
+    },
+    {
+      "id": "e_components_scanprogress_tsx_lib_manifest_ts",
+      "fromNode": "n_components_scanprogress_tsx",
+      "toNode": "n_lib_manifest_ts",
+      "label": "imports_from [EXTRACTED]"
+    },
+    {
+      "id": "e_components_scanprogress_tsx_lib_manifest_checklist",
+      "fromNode": "n_components_scanprogress_tsx",
+      "toNode": "n_lib_manifest_checklist",
+      "label": "imports [EXTRACTED]"
+    },
+    {
+      "id": "e_components_scanprogress_tsx_lib_types_ts",
+      "fromNode": "n_components_scanprogress_tsx",
+      "toNode": "n_lib_types_ts",
+      "label": "imports_from [EXTRACTED]"
+    },
+    {
+      "id": "e_components_scanprogress_tsx_lib_types_checkresult",
+      "fromNode": "n_components_scanprogress_tsx",
+      "toNode": "n_lib_types_checkresult",
+      "label": "imports [EXTRACTED]"
+    },
+    {
+      "id": "e_components_scanprogress_tsx_lib_types_checkstatus",
+      "fromNode": "n_components_scanprogress_tsx",
+      "toNode": "n_lib_types_checkstatus",
+      "label": "imports [EXTRACTED]"
+    },
+    {
+      "id": "e_components_scanprogress_tsx_components_scanprogress_props",
+      "fromNode": "n_components_scanprogress_tsx",
+      "toNode": "n_components_scanprogress_props",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_components_scanprogress_tsx_components_scanprogress_rowstate",
+      "fromNode": "n_components_scanprogress_tsx",
+      "toNode": "n_components_scanprogress_rowstate",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_components_scanprogress_tsx_components_scanprogress_icon",
+      "fromNode": "n_components_scanprogress_tsx",
+      "toNode": "n_components_scanprogress_icon",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_components_scanprogress_tsx_components_scanprogress_label",
+      "fromNode": "n_components_scanprogress_tsx",
+      "toNode": "n_components_scanprogress_label",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_components_scanprogress_tsx_components_scanprogress_scanprogress",
+      "fromNode": "n_components_scanprogress_tsx",
+      "toNode": "n_components_scanprogress_scanprogress",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_components_scanprogress_tsx_components_scanreport_tsx",
+      "fromNode": "n_components_scanprogress_tsx",
+      "toNode": "n_components_scanreport_tsx",
+      "label": "imports_from [EXTRACTED]"
+    },
+    {
+      "id": "e_components_scanprogress_scanprogress_components_scanreport_tsx",
+      "fromNode": "n_components_scanprogress_scanprogress",
+      "toNode": "n_components_scanreport_tsx",
+      "label": "imports [EXTRACTED]"
+    },
+    {
+      "id": "e_components_scanreport_tsx_lib_manifest_ts",
+      "fromNode": "n_components_scanreport_tsx",
+      "toNode": "n_lib_manifest_ts",
+      "label": "imports_from [EXTRACTED]"
+    },
+    {
+      "id": "e_components_scanreport_tsx_lib_manifest_checklist",
+      "fromNode": "n_components_scanreport_tsx",
+      "toNode": "n_lib_manifest_checklist",
+      "label": "imports [EXTRACTED]"
+    },
+    {
+      "id": "e_components_scanreport_tsx_lib_types_ts",
+      "fromNode": "n_components_scanreport_tsx",
+      "toNode": "n_lib_types_ts",
+      "label": "imports_from [EXTRACTED]"
+    },
+    {
+      "id": "e_components_scanreport_tsx_lib_types_checkresult",
+      "fromNode": "n_components_scanreport_tsx",
+      "toNode": "n_lib_types_checkresult",
+      "label": "imports [EXTRACTED]"
+    },
+    {
+      "id": "e_components_scanreport_tsx_lib_url_ts",
+      "fromNode": "n_components_scanreport_tsx",
+      "toNode": "n_lib_url_ts",
+      "label": "imports_from [EXTRACTED]"
+    },
+    {
+      "id": "e_components_scanreport_tsx_lib_url_checkreportpath",
+      "fromNode": "n_components_scanreport_tsx",
+      "toNode": "n_lib_url_checkreportpath",
+      "label": "imports [EXTRACTED]"
+    },
+    {
+      "id": "e_components_scanreport_tsx_lib_url_normalizedomain",
+      "fromNode": "n_components_scanreport_tsx",
+      "toNode": "n_lib_url_normalizedomain",
+      "label": "imports [EXTRACTED]"
+    },
+    {
+      "id": "e_components_scanreport_tsx_lib_url_scantargeturl",
+      "fromNode": "n_components_scanreport_tsx",
+      "toNode": "n_lib_url_scantargeturl",
+      "label": "imports [EXTRACTED]"
+    },
+    {
+      "id": "e_components_scanreport_tsx_components_scanbar_tsx",
+      "fromNode": "n_components_scanreport_tsx",
+      "toNode": "n_components_scanbar_tsx",
+      "label": "imports_from [EXTRACTED]"
+    },
+    {
+      "id": "e_components_scanreport_tsx_components_scanbar_scanbar",
+      "fromNode": "n_components_scanreport_tsx",
+      "toNode": "n_components_scanbar_scanbar",
+      "label": "imports [EXTRACTED]"
+    },
+    {
+      "id": "e_components_scanreport_tsx_components_checkgrid_tsx",
+      "fromNode": "n_components_scanreport_tsx",
+      "toNode": "n_components_checkgrid_tsx",
+      "label": "imports_from [EXTRACTED]"
+    },
+    {
+      "id": "e_components_scanreport_tsx_components_checkgrid_checkgrid",
+      "fromNode": "n_components_scanreport_tsx",
+      "toNode": "n_components_checkgrid_checkgrid",
+      "label": "imports [EXTRACTED]"
+    },
+    {
+      "id": "e_components_scanreport_tsx_components_scanreport_props",
+      "fromNode": "n_components_scanreport_tsx",
+      "toNode": "n_components_scanreport_props",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_components_scanreport_tsx_components_scanreport_scanreport",
+      "fromNode": "n_components_scanreport_tsx",
+      "toNode": "n_components_scanreport_scanreport",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_components_scanreport_scanreport_lib_url_normalizedomain",
+      "fromNode": "n_components_scanreport_scanreport",
+      "toNode": "n_lib_url_normalizedomain",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_components_scanreport_scanreport_lib_url_scantargeturl",
+      "fromNode": "n_components_scanreport_scanreport",
+      "toNode": "n_lib_url_scantargeturl",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_components_scanreport_scanreport_readme_parallel_scanning",
+      "fromNode": "n_components_scanreport_scanreport",
+      "toNode": "n_readme_parallel_scanning",
+      "label": "conceptually_related_to [INFERRED]"
+    },
+    {
+      "id": "e_components_scanbar_tsx_components_scanbar_props",
+      "fromNode": "n_components_scanbar_tsx",
+      "toNode": "n_components_scanbar_props",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_components_scanbar_tsx_components_scanbar_scanbar",
+      "fromNode": "n_components_scanbar_tsx",
+      "toNode": "n_components_scanbar_scanbar",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_components_checkgrid_tsx_lib_types_ts",
+      "fromNode": "n_components_checkgrid_tsx",
+      "toNode": "n_lib_types_ts",
+      "label": "imports_from [EXTRACTED]"
+    },
+    {
+      "id": "e_components_checkgrid_tsx_lib_types_checkresult",
+      "fromNode": "n_components_checkgrid_tsx",
+      "toNode": "n_lib_types_checkresult",
+      "label": "imports [EXTRACTED]"
+    },
+    {
+      "id": "e_components_checkgrid_tsx_lib_manifest_ts",
+      "fromNode": "n_components_checkgrid_tsx",
+      "toNode": "n_lib_manifest_ts",
+      "label": "imports_from [EXTRACTED]"
+    },
+    {
+      "id": "e_components_checkgrid_tsx_lib_manifest_checklist",
+      "fromNode": "n_components_checkgrid_tsx",
+      "toNode": "n_lib_manifest_checklist",
+      "label": "imports [EXTRACTED]"
+    },
+    {
+      "id": "e_components_checkgrid_tsx_components_checkgrid_props",
+      "fromNode": "n_components_checkgrid_tsx",
+      "toNode": "n_components_checkgrid_props",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_components_checkgrid_tsx_components_checkgrid_checkgrid",
+      "fromNode": "n_components_checkgrid_tsx",
+      "toNode": "n_components_checkgrid_checkgrid",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_components_homepage_tsx_lib_url_ts",
+      "fromNode": "n_components_homepage_tsx",
+      "toNode": "n_lib_url_ts",
+      "label": "imports_from [EXTRACTED]"
+    },
+    {
+      "id": "e_components_homepage_tsx_lib_url_checkreportpath",
+      "fromNode": "n_components_homepage_tsx",
+      "toNode": "n_lib_url_checkreportpath",
+      "label": "imports [EXTRACTED]"
+    },
+    {
+      "id": "e_components_homepage_tsx_lib_url_normalizedomain",
+      "fromNode": "n_components_homepage_tsx",
+      "toNode": "n_lib_url_normalizedomain",
+      "label": "imports [EXTRACTED]"
+    },
+    {
+      "id": "e_components_homepage_tsx_components_homepage_brandlogo",
+      "fromNode": "n_components_homepage_tsx",
+      "toNode": "n_components_homepage_brandlogo",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_components_homepage_tsx_components_homepage_homepage",
+      "fromNode": "n_components_homepage_tsx",
+      "toNode": "n_components_homepage_homepage",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_lib_remediation_ts_lib_remediation_header_remediation",
+      "fromNode": "n_lib_remediation_ts",
+      "toNode": "n_lib_remediation_header_remediation",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_lib_remediation_ts_lib_checks_headers_ts",
+      "fromNode": "n_lib_remediation_ts",
+      "toNode": "n_lib_checks_headers_ts",
+      "label": "imports_from [EXTRACTED]"
+    },
+    {
+      "id": "e_lib_remediation_ts_lib_checks_mail_config_ts",
+      "fromNode": "n_lib_remediation_ts",
+      "toNode": "n_lib_checks_mail_config_ts",
+      "label": "imports_from [EXTRACTED]"
+    },
+    {
+      "id": "e_lib_remediation_ts_lib_checks_http_security_ts",
+      "fromNode": "n_lib_remediation_ts",
+      "toNode": "n_lib_checks_http_security_ts",
+      "label": "imports_from [EXTRACTED]"
+    },
+    {
+      "id": "e_lib_remediation_ts_lib_checks_security_txt_ts",
+      "fromNode": "n_lib_remediation_ts",
+      "toNode": "n_lib_checks_security_txt_ts",
+      "label": "imports_from [EXTRACTED]"
+    },
+    {
+      "id": "e_lib_remediation_ts_lib_checks_hsts_ts",
+      "fromNode": "n_lib_remediation_ts",
+      "toNode": "n_lib_checks_hsts_ts",
+      "label": "imports_from [EXTRACTED]"
+    },
+    {
+      "id": "e_lib_remediation_header_remediation_lib_checks_headers_ts",
+      "fromNode": "n_lib_remediation_header_remediation",
+      "toNode": "n_lib_checks_headers_ts",
+      "label": "imports [EXTRACTED]"
+    },
+    {
+      "id": "e_lib_remediation_header_remediation_lib_checks_http_security_ts",
+      "fromNode": "n_lib_remediation_header_remediation",
+      "toNode": "n_lib_checks_http_security_ts",
+      "label": "imports [EXTRACTED]"
+    },
+    {
+      "id": "e_lib_remediation_header_remediation_lib_checks_hsts_ts",
+      "fromNode": "n_lib_remediation_header_remediation",
+      "toNode": "n_lib_checks_hsts_ts",
+      "label": "imports [EXTRACTED]"
+    },
+    {
+      "id": "e_lib_site_seo_ts_lib_site_seo_home_keywords",
+      "fromNode": "n_lib_site_seo_ts",
+      "toNode": "n_lib_site_seo_home_keywords",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_lib_site_seo_ts_lib_site_seo_getsiteurl",
+      "fromNode": "n_lib_site_seo_ts",
+      "toNode": "n_lib_site_seo_getsiteurl",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_lib_site_seo_ts_lib_site_seo_absoluteurl",
+      "fromNode": "n_lib_site_seo_ts",
+      "toNode": "n_lib_site_seo_absoluteurl",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_lib_site_seo_ts_lib_site_seo_reportpath",
+      "fromNode": "n_lib_site_seo_ts",
+      "toNode": "n_lib_site_seo_reportpath",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_lib_site_seo_ts_lib_site_seo_buildrootmetadata",
+      "fromNode": "n_lib_site_seo_ts",
+      "toNode": "n_lib_site_seo_buildrootmetadata",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_lib_site_seo_ts_lib_site_seo_buildhomemetadata",
+      "fromNode": "n_lib_site_seo_ts",
+      "toNode": "n_lib_site_seo_buildhomemetadata",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_lib_site_seo_ts_lib_site_seo_buildreportmetadata",
+      "fromNode": "n_lib_site_seo_ts",
+      "toNode": "n_lib_site_seo_buildreportmetadata",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_lib_site_seo_ts_lib_site_seo_webapplicationjsonld",
+      "fromNode": "n_lib_site_seo_ts",
+      "toNode": "n_lib_site_seo_webapplicationjsonld",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_lib_site_seo_ts_lib_site_seo_reportpagejsonld",
+      "fromNode": "n_lib_site_seo_ts",
+      "toNode": "n_lib_site_seo_reportpagejsonld",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_lib_site_seo_getsiteurl_lib_site_seo_absoluteurl",
+      "fromNode": "n_lib_site_seo_getsiteurl",
+      "toNode": "n_lib_site_seo_absoluteurl",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_lib_site_seo_getsiteurl_lib_site_seo_buildrootmetadata",
+      "fromNode": "n_lib_site_seo_getsiteurl",
+      "toNode": "n_lib_site_seo_buildrootmetadata",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_lib_site_seo_getsiteurl_lib_site_seo_webapplicationjsonld",
+      "fromNode": "n_lib_site_seo_getsiteurl",
+      "toNode": "n_lib_site_seo_webapplicationjsonld",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_lib_site_seo_getsiteurl_lib_site_seo_reportpagejsonld",
+      "fromNode": "n_lib_site_seo_getsiteurl",
+      "toNode": "n_lib_site_seo_reportpagejsonld",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_lib_site_seo_absoluteurl_lib_site_seo_buildhomemetadata",
+      "fromNode": "n_lib_site_seo_absoluteurl",
+      "toNode": "n_lib_site_seo_buildhomemetadata",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_lib_site_seo_absoluteurl_lib_site_seo_buildreportmetadata",
+      "fromNode": "n_lib_site_seo_absoluteurl",
+      "toNode": "n_lib_site_seo_buildreportmetadata",
+      "label": "calls [EXTRACTED]"
+    }
+  ]
+}
